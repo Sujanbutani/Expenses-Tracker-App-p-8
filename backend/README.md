@@ -31,7 +31,7 @@ A scalable RESTful API built with Node.js and Express for managing expenses, fea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sujanbutani/Event-Management-System-p-6.git
+   git clone https://github.com/Sujanbutani/Expenses-Tracker-App-p-8.git
 
 2. Install dependencies:
 
